@@ -1,0 +1,18 @@
+services:
+  spark:
+    build: .
+    volumes:
+      - ..:/app
+    ports:
+      - "4040:4040"
+    environment:
+      PYTHONPATH: /app
+      
+  pylucene:
+    image: coady/pylucene
+    volumes:
+      - ..:/app
+    working_dir: /app
+    environment:
+      PYTHONPATH: /app
+    command: sleep infinity

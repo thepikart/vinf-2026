@@ -1,0 +1,270 @@
+======================================================================
+QUERY: true crime
+  old:  15604 hits,   12.76 ms   (idf=classic, tf=count)
+  new:  16454 hits,   24.24 ms   (BM25)
+  top-10 overlap: 2/10
+  old top 5:
+    1. True Crime Latino
+    2. True Crime Español, Asesino Serial, La Victima, Mentes Criminales, Culpable
+    3. True Crime Investigation
+    4. True Crime Mystérieux
+    5. True Crime Favorite
+    6. True Crime en Español, Historias de Crimen, Historias Reales, True Crime Español
+    7. MK True Crime
+    8. True Crime & Wine
+    9. Crimen Organizado
+    10. UK True Crime Podcast
+  new top 5:
+    1. True Crime Catch Up with Adam Lloyd and Stuart Blues
+    2. UK True Crime Podcast
+    3. True Crime Sleep Stories
+    4. True Crime Favorite
+    5. Murder Mile UK True Crime
+    6. Australian True Crime
+    7. True Crime For Bedtime
+    8. FBI Unscripted | Real Agents On Real Crime
+    9. Crime Junkie
+    10. The FOX True Crime Podcast
+======================================================================
+QUERY: space AND exploration
+  old:    863 hits,    5.94 ms   (idf=classic, tf=count)
+  new:   6824 hits,   20.81 ms   (BM25)
+  top-10 overlap: 4/10
+  old top 5:
+    1. The Space Show by Dr. David Livingston
+    2. The Space Policy Show
+    3. RGS Presents: The Future of Exploration
+    4. Albertans In Space Podcast
+    5. Space Strategy
+    6. Deep Space High: Kids Guide to Space
+    7. This Week in Space (Audio)
+    8. SSPI
+    9. Off-Nominal
+    10. Space Nuts: Astronomy Insights & Cosmic Discoveries
+  new top 5:
+    1. Planetary Radio: Space Exploration, Astronomy and Science
+    2. Space Strategy
+    3. Hostile Worlds: Exploring Space
+    4. Albertans In Space Podcast
+    5. Space Night Ambient Music
+    6. Deep Space High: Kids Guide to Space
+    7. NASA's Curious Universe
+    8. Space Nuts: Astronomy Insights & Cosmic Discoveries
+    9. Inside Extra Space Storage
+    10. Entropy Rising
+======================================================================
+QUERY: cooking OR baking
+  old:   1507 hits,    1.09 ms   (idf=classic, tf=count)
+  new:   3669 hits,    7.36 ms   (BM25)
+  top-10 overlap: 2/10
+  old top 5:
+    1. Food Friends: Home Cooking Made Easy
+    2. Baking it Down with Sugar Cookie Marketing 🍪
+    3. Things Bakers Know: The King Arthur Baking Podcast
+    4. Talking With My Mouth Full
+    5. Dishing with Stephanie's Dish
+    6. Chef Riq’s Unseen Cuisine | Sensory Cooking Podcast
+    7. Cooking Issues
+    8. Cooking Issues
+    9. Witchy Woman Walking
+    10. Okayest Cook
+  new top 5:
+    1. Snoozecast Presents: Cooking and Baking
+    2. The Splendid Table: Conversations & Recipes For Curious Cooks & Eaters
+    3. Things Bakers Know: The King Arthur Baking Podcast
+    4. Krème Pâtissière: A Great British Bake-Off Podcast
+    5. Food Friends: Home Cooking Made Easy
+    6. Bake On
+    7. The Bake Down - Bake Off Reviewed
+    8. Baking Radio: Chef Gail Sokol's Baking Podcast
+    9. Troubleshooting Innovation
+    10. The Clever Cookstr's Quick and Dirty Tips from the World's Best Cooks
+======================================================================
+QUERY: startup AND funding
+  old:    292 hits,    1.87 ms   (idf=classic, tf=count)
+  new:    674 hits,    9.59 ms   (BM25)
+  top-10 overlap: 2/10
+  old top 5:
+    1. Build Mode
+    2. InvestHer Podcast
+    3. The Jolly Contrarian on ISDA
+    4. Unfunded with Joan Westenberg
+    5. Inside The Vault with Ash Cash
+    6. AI InterConnect Podcast
+    7. The Startup CPG Podcast
+    8. Startup Builders & Backers
+    9. Strawberry Letter
+    10. Practical Founders Podcast
+  new top 5:
+    1. The Breakouts - 20 Minute Startup Stories
+    2. This Week in Startups
+    3. The Week in Italian Startup
+    4. Top Decile Podcast
+    5. Founders Uncensored \\ Unfiltered startup founder stories
+    6. The Fund AI Pod
+    7. Entrepreneur Talks by STATION F
+    8. Startup Builders & Backers
+    9. Funded | How They Raised Millions
+    10. Unfunded with Joan Westenberg
+======================================================================
+QUERY: basketball NOT fantasy
+  old:   1908 hits,    1.28 ms   (idf=classic, tf=count)
+  new:   1961 hits,   14.81 ms   (BM25)
+  top-10 overlap: 2/10
+  old top 5:
+    1. Basketball Junk Defenses
+    2. Funnel Down Defense (Basketball Defense)
+    3. Rule of 3 Offense (Basketball Offense)
+    4. Coach's Edge
+    5. The 5 Minute Basketball Coaching Podcast
+    6. Locked On College Basketball
+    7. Bout that Life (AAU Life and basketball talk) Podcast
+    8. Beatline Huskies - Daily Podcast On The UConn Huskies
+    9. JAMODI Podcast
+    10. Beatline Arkansas Basketball - Daily Podcast On The Arkansas Razorbacks
+  new top 5:
+    1. Building Better Basketball
+    2. TarHeel247 - A UNC Basketball podcast with John Henson
+    3. The 5 Minute Basketball Coaching Podcast
+    4. United Basketball Podcast
+    5. Basketball, Etc.
+    6. The Transforming Basketball Podcast
+    7. Coaching Youth Hoops (Youth Basketball Coach)
+    8. Duke Basketball Roundup
+    9. Duke Basketball Roundup
+    10. Bout that Life (AAU Life and basketball talk) Podcast
+======================================================================
+QUERY: health AND nutrition NOT diet
+  old:   1215 hits,    8.07 ms   (idf=classic, tf=count)
+  new:   1196 hits,    7.70 ms   (BM25)
+  top-10 overlap: 0/10
+  old top 5:
+    1. Table Talk
+    2. Nutrition Connection by Dr. Kristen Hicks-Roof
+    3. CSO Exam Prep
+    4. The Health Confidential with Simone Gisondi
+    5. Wellness + Wisdom Podcast
+    6. The Dairy Health Blackbelt Podcast
+    7. Fitness Wisdom Podcast
+    8. Metabolic Wellbeing without the BS
+    9. Bite the Talk - Podcast Series
+    10. Beyond The Paper Gown Podcast
+  new top 5:
+    1. The Nutrition and Health Interventions (NHi) Podcast
+    2. The Nutritional Mental Health Podcast
+    3. Thinking Nutrition
+    4. The Performance Nutrition Podcast
+    5. Mastering Nutrition
+    6. Dietitians in Nutrition Support: DNS Podcast
+    7. The Funk'tional Nutrition Podcast
+    8. Kidney 1-2-3: Simple Steps for Kidney Health
+    9. Osher WISE: Well-being and Integrative Science for Everyone (Video)
+    10. Pathways to Well-Being
+======================================================================
+QUERY: philosophy --episodes +100
+  old:   2030 hits,    4.36 ms   (idf=classic, tf=count)
+  new:   2353 hits,    7.55 ms   (BM25)
+  top-10 overlap: 1/10
+  old top 5:
+    1. Stoic Mindset
+    2. Stoicism & Success
+    3. L&P Beyond Dichotomy: An international collective exploring the power in caring beyond bounds. (Love & Philosophy Subscriber
+    4. Stoic Lessons
+    5. Stoicism Meditation
+    6. SECRETS OF SUCCESS & WEALTH: Hidden Laws of Money, Power & Success
+    7. love & philosophy
+    8. Friction
+    9. Heavy Metal Philosophy
+    10. YFYI — Yoga For Your Intellect
+  new top 5:
+    1. History of Philosophy Without Any Gaps
+    2. Sleepy Philosophy
+    3. Philosophy vs. Improv
+    4. Heavy Metal Philosophy
+    5. Majesty of Reason Philosophy Podcast
+    6. What's Left of Philosophy
+    7. Inspiring Philosophy
+    8. Philosophy Bites
+    9. Cours de philosophie : conférences audio
+    10. Le Phil d'Actu - Philosophie et Actualité
+======================================================================
+QUERY: investing NOT crypto --rating +4.5
+  old:   1835 hits,    4.60 ms   (idf=classic, tf=count)
+  new:   4142 hits,    6.34 ms   (BM25)
+  top-10 overlap: 0/10
+  old top 5:
+    1. Market MakeHer Podcast
+    2. Ramsey Everyday Millionaires
+    3. The Game for Real Estate Investors and Developers
+    4. Icons and Ideas with Peter Mallouk
+    5. The 100 Year Thinkers: Long-Term Compounding in a Short-Term World
+    6. Investing by the Books
+    7. Playing FTSE
+    8. The Personal Finance Podcast
+    9. Canadian Wealth Secrets
+    10. On Investing
+  new top 5:
+    1. Investing Legends
+    2. this is investing
+    3. Investing Compass
+    4. Invest Like the Best with Patrick O'Shaughnessy
+    5. Stock Market Investing with Giovanni Rigters
+    6. Passive Real Estate Investing
+    7. Sound Investing
+    8. Intelligent Investment Today - The Warren Buffett Way
+    9. Bogleheads On Investing Podcast
+    10. Coliving Investing Podcast
+======================================================================
+QUERY: mental AND health --episodes +100 --rating +4.5
+  old:   2366 hits,   17.33 ms   (idf=classic, tf=count)
+  new:   2487 hits,    7.97 ms   (BM25)
+  top-10 overlap: 2/10
+  old top 5:
+    1. Mainstream Mental Health
+    2. Mom and Mind | Pregnancy and Postpartum Depression & Anxiety
+    3. Free & Well: Break Free From Anxiety & Overthinking & Feel More Confident With Mental Health Habits, Nervous System Healing &
+    4. Inside Bipolar
+    5. Athlete Mindset
+    6. The Therapist Thrival Guide
+    7. She Persisted
+    8. The Mental Golf Show
+    9. Trauma Rewired
+    10. Dear Family,
+  new top 5:
+    1. Mainstream Mental Health
+    2. Inside Mental Health
+    3. HealthyGamerGG
+    4. The Therapist Thrival Guide
+    5. Hope Starts With Us
+    6. The Mental Matchup
+    7. The Thinking Mind: Mental Health & Personal Growth
+    8. Joy Lab | strengthen your mental health with the science of joy
+    9. Hash Time with Nabuguzi Kiwanuka
+    10. The Madhappy Podcast
+======================================================================
+QUERY: language learning --episodes -50
+  old:   6223 hits,   19.62 ms   (idf=classic, tf=count)
+  new:  12597 hits,    7.26 ms   (BM25)
+  top-10 overlap: 2/10
+  old top 5:
+    1. Literacy Across Languages
+    2. The Nuclear Medicine and Molecular Medicine podcast
+    3. Designed for Learning
+    4. English Canada
+    5. Chinese Learning Podcast | HSK 1 (Season 2)
+    6. Increasing Student Success
+    7. Chinese Learning Podcast | HSK 3 (Season 1)
+    8. Saussure e grida
+    9. Easy Languages: Stories of Language Learning
+    10. Chalk Dust
+  new top 5:
+    1. Easy Languages: Stories of Language Learning
+    2. "The learning the French language"
+    3. Learn Serbian Podcast
+    4. Centre for International English Language Training
+    5. Japanese for Travel and Beginners Archives - Real Life Language
+    6. Learn Yoruba With Yèyé Yorùbá
+    7. Learning Russian through Stories
+    8. Global Language Podcast
+    9. Literacy Across Languages
+    10. Learn Japanese with Japanese Made Easy
